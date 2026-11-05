@@ -138,5 +138,5 @@ Cada cambio se hacía primero en Domain o Application y después se escribían s
 **Juan Jesús Ortega Zambrano** · Desarrollador Backend .NET
 
 - LinkedIn: https://www.linkedin.com/in/juan-ortega-dev/
-- Correo: juanortegazbrn@gmail.com
+- Correo: jnua.dev@gmail.com
 - GitHub: [@JNua0](https://github.com/JNua0)
